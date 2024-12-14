@@ -6,9 +6,9 @@ interface IParams {
 
 export default async function getUserById(params: IParams) {
   try {
-    console.log(params);
+ 
     const { userId } = params;
-    console.log(userId);
+
     const user = await db.user.findUniqueOrThrow({
       where: {
         id: userId as string,

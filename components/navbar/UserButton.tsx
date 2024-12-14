@@ -63,21 +63,16 @@ const UserButton: React.FC<UserButtonProps> = ({ user }) => {
                 Todos
               </Link>
             </DropdownMenuItem>
-            <DropdownMenuItem asChild>
-              <Link href="/favourites">
-                <Dog className="mr-2 h-4 w-4" />
-                Favourites
-              </Link>
-            </DropdownMenuItem>
-            <DropdownMenuItem asChild>
+          
+         {/*    <DropdownMenuItem asChild>
               <Link href="/uploadDogs">
                 <Dog className="mr-2 h-4 w-4" />
                 Uploads
               </Link>
-            </DropdownMenuItem>
+            </DropdownMenuItem> */}
             {user.role === "ADMIN" && (
               <>
-                <DropdownMenuItem asChild>
+              {/*   <DropdownMenuItem asChild>
                   <Link href="/admin">
                     <Lock className="mr-2 h-4 w-4" />
                     Administrador
@@ -88,17 +83,17 @@ const UserButton: React.FC<UserButtonProps> = ({ user }) => {
                     <Lock className="mr-2 h-4 w-4" />
                     Panel de control
                   </Link>
-                </DropdownMenuItem>
+                </DropdownMenuItem> */}
                 <DropdownMenuItem asChild>
                   <Link href="/admin/users">
                     <Lock className="mr-2 h-4 w-4" />
-                    Usuarios
+                    Users
                   </Link>
                 </DropdownMenuItem>
                 <DropdownMenuItem asChild>
                   <Link href="/admin/messages">
                     <MessageCircle className="mr-2 h-4 w-4" />
-                    Mensajes
+                    Messages
                   </Link>
                 </DropdownMenuItem>
               </>

@@ -16,33 +16,34 @@ export default async function Page() {
   }
 
   return (
-    <div className="mt-5 md:max-w-fit sm:max-w-fit w-full mx-auto md:rounded-2xl px-11 font-bold shadow-md   py-4 shadow-black  border border-[#121212]   text-black">
+    <div className="mt-8 lg:max-w-fit md:max-w-fit sm:max-w-fit xs:max-w-fit w-full mx-auto md:rounded-2xl sm:rounded-2xl px-6 font-bold  py-4  text-center  border border-[#121212] bg-zinc-900 ">
+     
       {currentUser?.name && (
         <div className=" justify-between  mx-auto">
-          <h2 className="text-2xl p-3">
+           <h3 className=" text-[1.4rem] hover:text-cyan-800  m-2  ">
           {currentUser?.name}{" "}
-          </h2>
+          </h3>
           <Image
             src={currentUser?.image || avatarPlaceholder}
             alt={currentUser?.name}
             width={200}
             height={200}
             priority
-            className="object-contain mx-auto mb-4 w-auto rounded-sm "
+            className="object-contain mx-auto mb-2 w-auto rounded-sm "
           />
           <div className="text-left">
             <h5>
               {" "}
               <span>Email:</span> {currentUser.email}
             </h5>
-            <p className="my-2">
+            <h5 className="my-2">
               <span className="mr-1 ">Desde:</span>
               {new Date(currentUser.createdAt).toLocaleDateString()}
-            </p>
-            <p>
+            </h5>
+            <h5>
               {" "}
               <span className="mr-1 ">Id:</span> {currentUser.id}
-            </p>
+            </h5>
 
             {/* <SettingsPage currentUser={currentUser}/> */}
             <UserEditForm

@@ -18,11 +18,8 @@ function SingleUser({ key, data }: UserProps) {
   const [loading, setLoading] = useState(false);
 
   return (
-    /*    <div
-      className="mt-5  max-w-fit mx-auto md:rounded-2xl px-6 font-bold  py-4 shadow-input bg-zinc-700 border border-[#121212]  dark:bg-black"
-      key={data.id}
-    > */
-    <div className="container  mt-5   md:rounded-2xl  shadow-md shadow-black -inset-40  w-full  text-center mx-auto border border-[#121212]  ">
+
+    <div className="container  mt-5   md:rounded-2xl  shadow-md shadow-black -inset-40  w-full  text-center mx-auto border border-[#121212] bg-zinc-900 ">
       <h3 className=" text-[1.4rem] hover:text-cyan-800  m-2  ">
         {data.name}
       </h3>{" "}
@@ -32,7 +29,7 @@ function SingleUser({ key, data }: UserProps) {
         width={250}
         height={250}
         priority
-        className="object-contain mx-auto mb-4 w-auto rounded-sm "
+        className="object-contain mx-auto mb-2 w-auto rounded-sm "
       />
       {/* <p className="m-1 truncate text-sm leading-5 ">Id: {data.id}</p> */}
       <h5 className="m-1 truncate text-sm leading-5 ">{data.email}</h5>

@@ -1,0 +1,1223 @@
+> Ready on http://localhost:\\.\pipe\efd80f0a-0e73-40d6-a0d4-5faa8af0a468
+params { id: '52968' }
+data {
+  idMeal: '52968',
+  strMeal: 'Mbuzi Choma (Roasted Goat)',
+  strDrinkAlternate: null,
+  strCategory: 'Goat',
+  strArea: 'Kenyan',
+  strInstructions: '1. Steps for the Meat: \r\n' +
+    ' Roast meat over medium heat for 50 minutes and salt it as you turn it.\r\n' +
+    '\r\n' +
+    '2. Steps for Ugali:\r\n' +
+    'Bring the water and salt to a boil in a heavy-bottomed saucepan. Stir in the cornmeal slowly, letting it fall through the fingers of your hand.\r\n' +
+    '\r\n' +
+    '3. Reduce heat to medium-low and continue stirring regularly, smashing any lumps with a spoon, until the mush pulls away from the sides of the pot and becomes very thick, about 10 minutes.\r\n' +
+    '\r\n' +
+    '4.Remove from heat and allow to cool.\r\n' +
+    '\r\n' +
+    '5. Place the ugali into a large serving bowl. Wet your hands with water, form a ball and serve.\r\n' +
+    '\r\n' +
+    '6. Steps for Kachumbari: Mix the tomatoes, onions, chili and coriander leaves in a bowl.\r\n' +
+    '\r\n' +
+    '7. Serve and enjoy!\r\n' +
+    '\r\n',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/cuio7s1555492979.jpg',
+  strTags: 'BBQ,Meat',
+  strYoutube: '',
+  strIngredient1: 'Goat Meat',
+  strIngredient2: 'Corn Flour',
+  strIngredient3: 'Tomatoes',
+  strIngredient4: 'Salt',
+  strIngredient5: 'Onion',
+  strIngredient6: 'Green Chilli',
+  strIngredient7: 'Coriander Leaves',
+  strIngredient8: '',
+  strIngredient9: '',
+  strIngredient10: '',
+  strIngredient11: '',
+  strIngredient12: '',
+  strIngredient13: '',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '1 kg',
+  strMeasure2: '1 kg',
+  strMeasure3: '2',
+  strMeasure4: 'Pinch',
+  strMeasure5: '1',
+  strMeasure6: '1',
+  strMeasure7: '1  bunch',
+  strMeasure8: ' ',
+  strMeasure9: ' ',
+  strMeasure10: ' ',
+  strMeasure11: ' ',
+  strMeasure12: ' ',
+  strMeasure13: ' ',
+  strMeasure14: ' ',
+  strMeasure15: ' ',
+  strMeasure16: ' ',
+  strMeasure17: ' ',
+  strMeasure18: ' ',
+  strMeasure19: ' ',
+  strMeasure20: ' ',
+  strSource: '',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+params { id: '52967' }
+data {
+  idMeal: '52967',
+  strMeal: 'Home-made Mandazi',
+  strDrinkAlternate: null,
+  strCategory: 'Breakfast',
+  strArea: 'Kenyan',
+  strInstructions: 'This is one recipe a lot of people have requested and I have tried to make it as simple as possible and I hope it will work for you. Make sure you use the right flour which is basically one with raising agents. Adjust the amount of sugar to your taste and try using different flavours to have variety whenever you have them.\r\n' +
+    'You can use Coconut milk instead of regular milk, you can also add desiccated coconut to the dry flour or other spices like powdered cloves or cinnamon.\r\n' +
+    'For “healthy looking” mandazis do not roll the dough too thin before frying and use the procedure I have indicated above.\r\n' +
+    '\r\n' +
+    '1. Mix the flour,cinnamon and sugar in a suitable bowl.\r\n' +
+    '2. In a separate bowl whisk the egg into the milk\r\n' +
+    '3. Make a well at the centre of the flour and add the milk and egg mixture and slowly mix to form a dough.\r\n' +
+    '4. Knead the dough for 3-4 minutes or until it stops sticking to the sides of the bowl and you have a smooth surface.\r\n' +
+    '5. Cover the dough with a damp cloth  and allow to rest for 15 minutes.\r\n' +
+    '6. Roll the dough on a lightly floured surface into a 1cm thick piece.\r\n' +
+    '7. Using a sharp small knife, cut the dough into the desired size setting aside ready for deep frying.\r\n' +
+    '8. Heat your oil in a suitable pot and gently dip the mandazi pieces to cook until light brown on the first side then turn to cook on the second side.\r\n' +
+    '9. Serve them warm or cold',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/thazgm1555350962.jpg',
+  strTags: 'Baking,Breakfast,Egg,Warm,Snack',
+  strYoutube: '',
+  strIngredient1: 'Self-raising Flour',
+  strIngredient2: 'Sugar',
+  strIngredient3: 'Eggs',
+  strIngredient4: 'Milk',
+  strIngredient5: '',
+  strIngredient6: '',
+  strIngredient7: '',
+  strIngredient8: '',
+  strIngredient9: '',
+  strIngredient10: '',
+  strIngredient11: '',
+  strIngredient12: '',
+  strIngredient13: '',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '750g',
+  strMeasure2: '6 tablespoons',
+  strMeasure3: '2',
+  strMeasure4: '1 cup ',
+  strMeasure5: ' ',
+  strMeasure6: ' ',
+  strMeasure7: ' ',
+  strMeasure8: ' ',
+  strMeasure9: ' ',
+  strMeasure10: ' ',
+  strMeasure11: ' ',
+  strMeasure12: ' ',
+  strMeasure13: ' ',
+  strMeasure14: ' ',
+  strMeasure15: ' ',
+  strMeasure16: ' ',
+  strMeasure17: ' ',
+  strMeasure18: ' ',
+  strMeasure19: ' ',
+  strMeasure20: ' ',
+  strSource: 'http://chef-raphael.com/home-made-mandazi-recipe/#more-106',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+params { id: '52967' }
+data {
+  idMeal: '52967',
+  strMeal: 'Home-made Mandazi',
+  strDrinkAlternate: null,
+  strCategory: 'Breakfast',
+  strArea: 'Kenyan',
+  strInstructions: 'This is one recipe a lot of people have requested and I have tried to make it as simple as possible and I hope it will work for you. Make sure you use the right flour which is basically one with raising agents. Adjust the amount of sugar to your taste and try using different flavours to have variety whenever you have them.\r\n' +
+    'You can use Coconut milk instead of regular milk, you can also add desiccated coconut to the dry flour or other spices like powdered cloves or cinnamon.\r\n' +
+    'For “healthy looking” mandazis do not roll the dough too thin before frying and use the procedure I have indicated above.\r\n' +
+    '\r\n' +
+    '1. Mix the flour,cinnamon and sugar in a suitable bowl.\r\n' +
+    '2. In a separate bowl whisk the egg into the milk\r\n' +
+    '3. Make a well at the centre of the flour and add the milk and egg mixture and slowly mix to form a dough.\r\n' +
+    '4. Knead the dough for 3-4 minutes or until it stops sticking to the sides of the bowl and you have a smooth surface.\r\n' +
+    '5. Cover the dough with a damp cloth  and allow to rest for 15 minutes.\r\n' +
+    '6. Roll the dough on a lightly floured surface into a 1cm thick piece.\r\n' +
+    '7. Using a sharp small knife, cut the dough into the desired size setting aside ready for deep frying.\r\n' +
+    '8. Heat your oil in a suitable pot and gently dip the mandazi pieces to cook until light brown on the first side then turn to cook on the second side.\r\n' +
+    '9. Serve them warm or cold',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/thazgm1555350962.jpg',
+  strTags: 'Baking,Breakfast,Egg,Warm,Snack',
+  strYoutube: '',
+  strIngredient1: 'Self-raising Flour',
+  strIngredient2: 'Sugar',
+  strIngredient3: 'Eggs',
+  strIngredient4: 'Milk',
+  strIngredient5: '',
+  strIngredient6: '',
+  strIngredient7: '',
+  strIngredient8: '',
+  strIngredient9: '',
+  strIngredient10: '',
+  strIngredient11: '',
+  strIngredient12: '',
+  strIngredient13: '',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '750g',
+  strMeasure2: '6 tablespoons',
+  strMeasure3: '2',
+  strMeasure4: '1 cup ',
+  strMeasure5: ' ',
+  strMeasure6: ' ',
+  strMeasure7: ' ',
+  strMeasure8: ' ',
+  strMeasure9: ' ',
+  strMeasure10: ' ',
+  strMeasure11: ' ',
+  strMeasure12: ' ',
+  strMeasure13: ' ',
+  strMeasure14: ' ',
+  strMeasure15: ' ',
+  strMeasure16: ' ',
+  strMeasure17: ' ',
+  strMeasure18: ' ',
+  strMeasure19: ' ',
+  strMeasure20: ' ',
+  strSource: 'http://chef-raphael.com/home-made-mandazi-recipe/#more-106',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+meal {
+  idMeal: '52967',
+  strMeal: 'Home-made Mandazi',
+  strDrinkAlternate: null,
+  strCategory: 'Breakfast',
+  strArea: 'Kenyan',
+  strInstructions: 'This is one recipe a lot of people have requested and I have tried to make it as simple as possible and I hope it will work for you. Make sure you use the right flour which is basically one with raising agents. Adjust the amount of sugar to your taste and try using different flavours to have variety whenever you have them.\r\n' +
+    'You can use Coconut milk instead of regular milk, you can also add desiccated coconut to the dry flour or other spices like powdered cloves or cinnamon.\r\n' +
+    'For “healthy looking” mandazis do not roll the dough too thin before frying and use the procedure I have indicated above.\r\n' +
+    '\r\n' +
+    '1. Mix the flour,cinnamon and sugar in a suitable bowl.\r\n' +
+    '2. In a separate bowl whisk the egg into the milk\r\n' +
+    '3. Make a well at the centre of the flour and add the milk and egg mixture and slowly mix to form a dough.\r\n' +
+    '4. Knead the dough for 3-4 minutes or until it stops sticking to the sides of the bowl and you have a smooth surface.\r\n' +
+    '5. Cover the dough with a damp cloth  and allow to rest for 15 minutes.\r\n' +
+    '6. Roll the dough on a lightly floured surface into a 1cm thick piece.\r\n' +
+    '7. Using a sharp small knife, cut the dough into the desired size setting aside ready for deep frying.\r\n' +
+    '8. Heat your oil in a suitable pot and gently dip the mandazi pieces to cook until light brown on the first side then turn to cook on the second side.\r\n' +
+    '9. Serve them warm or cold',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/thazgm1555350962.jpg',
+  strTags: 'Baking,Breakfast,Egg,Warm,Snack',
+  strYoutube: '',
+  strIngredient1: 'Self-raising Flour',
+  strIngredient2: 'Sugar',
+  strIngredient3: 'Eggs',
+  strIngredient4: 'Milk',
+  strIngredient5: '',
+  strIngredient6: '',
+  strIngredient7: '',
+  strIngredient8: '',
+  strIngredient9: '',
+  strIngredient10: '',
+  strIngredient11: '',
+  strIngredient12: '',
+  strIngredient13: '',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '750g',
+  strMeasure2: '6 tablespoons',
+  strMeasure3: '2',
+  strMeasure4: '1 cup ',
+  strMeasure5: ' ',
+  strMeasure6: ' ',
+  strMeasure7: ' ',
+  strMeasure8: ' ',
+  strMeasure9: ' ',
+  strMeasure10: ' ',
+  strMeasure11: ' ',
+  strMeasure12: ' ',
+  strMeasure13: ' ',
+  strMeasure14: ' ',
+  strMeasure15: ' ',
+  strMeasure16: ' ',
+  strMeasure17: ' ',
+  strMeasure18: ' ',
+  strMeasure19: ' ',
+  strMeasure20: ' ',
+  strSource: 'http://chef-raphael.com/home-made-mandazi-recipe/#more-106',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+{
+  user: {
+    name: 'Afro',
+    email: 'afro@gmail.com',
+    image: 'https://res.cloudinary.com/www-qepweb-es/image/upload/v1727618719/mu3a5rboxd7hngtfjfch.png',
+    role: 'ADMIN',
+    id: '66d8a4602796cc2cecaa5fda'
+  },
+  expires: '2025-01-08T20:25:58.924Z'
+}
+{
+  user: {
+    name: 'Afro',
+    email: 'afro@gmail.com',
+    image: 'https://res.cloudinary.com/www-qepweb-es/image/upload/v1727618719/mu3a5rboxd7hngtfjfch.png',
+    role: 'ADMIN',
+    id: '66d8a4602796cc2cecaa5fda'
+  },
+  expires: '2025-01-08T20:26:06.892Z'
+}
+{
+  user: {
+    name: 'Afro',
+    email: 'afro@gmail.com',
+    image: 'https://res.cloudinary.com/www-qepweb-es/image/upload/v1727618719/mu3a5rboxd7hngtfjfch.png',
+    role: 'ADMIN',
+    id: '66d8a4602796cc2cecaa5fda'
+  },
+  expires: '2025-01-08T20:26:26.215Z'
+}
+{
+  user: {
+    name: 'Afro',
+    email: 'afro@gmail.com',
+    image: 'https://res.cloudinary.com/www-qepweb-es/image/upload/v1727618719/mu3a5rboxd7hngtfjfch.png',
+    role: 'ADMIN',
+    id: '66d8a4602796cc2cecaa5fda'
+  },
+  expires: '2025-01-08T20:26:29.320Z'
+}
+66d8a4602796cc2cecaa5fda
+currentUser  {
+  id: '66d8a4602796cc2cecaa5fda',
+  name: 'Afro',
+  email: 'afro@gmail.com',
+  emailVerified: null,
+  image: 'https://res.cloudinary.com/www-qepweb-es/image/upload/v1727618719/mu3a5rboxd7hngtfjfch.png',
+  hashedPassword: '$2b$12$8Kzo1xwMEpCybpc9qA.2Nevo9s.QZ6Eje4GjUn.3d9XFRm/KiFJpq',
+  createdAt: '2024-09-04T18:18:08.877Z',
+  updatedAt: '2024-09-29T14:05:33.136Z',
+  role: 'ADMIN'
+}
+currentUser  {
+  id: '66d8a4602796cc2cecaa5fda',
+  name: 'Afro',
+  email: 'afro@gmail.com',
+  emailVerified: null,
+  image: 'https://res.cloudinary.com/www-qepweb-es/image/upload/v1727618719/mu3a5rboxd7hngtfjfch.png',
+  hashedPassword: '$2b$12$8Kzo1xwMEpCybpc9qA.2Nevo9s.QZ6Eje4GjUn.3d9XFRm/KiFJpq',
+  createdAt: '2024-09-04T18:18:08.877Z',
+  updatedAt: '2024-09-29T14:05:33.136Z',
+  role: 'ADMIN'
+}
+currentUser  {
+  id: '66d8a4602796cc2cecaa5fda',
+  name: 'Afro',
+  email: 'afro@gmail.com',
+  emailVerified: null,
+  image: 'https://res.cloudinary.com/www-qepweb-es/image/upload/v1727618719/mu3a5rboxd7hngtfjfch.png',
+  hashedPassword: '$2b$12$8Kzo1xwMEpCybpc9qA.2Nevo9s.QZ6Eje4GjUn.3d9XFRm/KiFJpq',
+  createdAt: '2024-09-04T18:18:08.877Z',
+  updatedAt: '2024-09-29T14:05:33.136Z',
+  role: 'ADMIN'
+}
+{
+  user: {
+    name: 'Afro',
+    email: 'afro@gmail.com',
+    image: 'https://res.cloudinary.com/www-qepweb-es/image/upload/v1727618719/mu3a5rboxd7hngtfjfch.png',
+    role: 'ADMIN',
+    id: '66d8a4602796cc2cecaa5fda'
+  },
+  expires: '2025-01-08T20:29:10.515Z'
+}
+66d8a4602796cc2cecaa5fda
+{
+  user: {
+    name: 'Afro',
+    email: 'afro@gmail.com',
+    image: 'https://res.cloudinary.com/www-qepweb-es/image/upload/v1727618719/mu3a5rboxd7hngtfjfch.png',
+    role: 'ADMIN',
+    id: '66d8a4602796cc2cecaa5fda'
+  },
+  expires: '2025-01-08T20:29:17.778Z'
+}
+{
+  user: {
+    name: 'Afro',
+    email: 'afro@gmail.com',
+    image: 'https://res.cloudinary.com/www-qepweb-es/image/upload/v1727618719/mu3a5rboxd7hngtfjfch.png',
+    role: 'ADMIN',
+    id: '66d8a4602796cc2cecaa5fda'
+  },
+  expires: '2025-01-08T20:29:18.755Z'
+}
+params { id: '53085' }
+data {
+  idMeal: '53085',
+  strMeal: '15-minute chicken & halloumi burgers',
+  strDrinkAlternate: null,
+  strCategory: 'Chicken',
+  strArea: 'American',
+  strInstructions: 'STEP 1\r\n' +
+    '\r\n' +
+    'Put the chicken breasts between two pieces of baking parchment and use a rolling pin to gently bash them until they are approximately 1cm thick. Cut each chicken breast into two even pieces.\r\n' +
+    '\r\n' +
+    'STEP 2\r\n' +
+    '\r\n' +
+    "If you're using a frying pan, heat two frying pans over medium-high heat, with one of them containing oil. Fry the chicken in the oiled pan for 3-4 mins on each side until they are cooked through. Season the chicken, reduce the heat, drizzle in the chilli sauce and half of the lemon juice, and cook for an additional 1-2 mins until the sauce is reduced. Remove the chicken from the heat.\r\n" +
+    '\r\n' +
+    'STEP 3\r\n' +
+    '\r\n' +
+    "If you're using an air-fryer, preheat it to 180C for 4 mins. Add the chicken to the air-fryer and cook for 12 mins. Drizzle over the chilli sauce and half the lemon juice and cook for an additional 1-2 mins until the chicken is cooked through and the sauce is reduced. Remove the chicken and keep it warm.\r\n" +
+    'STEP 4\r\n' +
+    '\r\n' +
+    "While the chicken is cooking, toast the buns in the dry frying pan for 30 seconds. Transfer them to a plate. If you're using an air fryer, put the buns in the air fryer for 1-2 mins until they are warm. Increase the air fryer temperature to 200C. Add the halloumi to the air fryer basket and cook for 10 mins, turning halfway through, until it's golden. Toss the cabbage with the mayo and the remaining lemon juice.\r\n" +
+    '\r\n' +
+    'STEP 5\r\n' +
+    '\r\n' +
+    'Spoon the hummus (or dip of your choice) into the toasted buns, then top with the rocket, chilli chicken, halloumi, and peppers. Drizzle with a little more chilli sauce, spoon over the cabbage, season with black pepper, and top with the bun lids. Serve with any extra cabbage on the side or a green salad.',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/vdwloy1713225718.jpg',
+  strTags: null,
+  strYoutube: '',
+  strIngredient1: 'Chicken Breasts',
+  strIngredient2: 'Oil',
+  strIngredient3: 'Hotsauce',
+  strIngredient4: 'Lemon Juice',
+  strIngredient5: 'Buns',
+  strIngredient6: 'Cheese',
+  strIngredient7: 'Cabbage',
+  strIngredient8: 'Mayonnaise',
+  strIngredient9: 'Sour Cream',
+  strIngredient10: 'Lettuce',
+  strIngredient11: 'Red Pepper',
+  strIngredient12: '',
+  strIngredient13: '',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '2',
+  strMeasure2: '1 tbsp',
+  strMeasure3: '4 tbsp',
+  strMeasure4: '½',
+  strMeasure5: '2',
+  strMeasure6: '250g',
+  strMeasure7: '¼',
+  strMeasure8: '2 tbsp',
+  strMeasure9: '4 tbsp',
+  strMeasure10: '4 leaves',
+  strMeasure11: '2',
+  strMeasure12: ' ',
+  strMeasure13: ' ',
+  strMeasure14: ' ',
+  strMeasure15: ' ',
+  strMeasure16: ' ',
+  strMeasure17: ' ',
+  strMeasure18: ' ',
+  strMeasure19: ' ',
+  strMeasure20: ' ',
+  strSource: 'https://www.bbcgoodfood.com/recipes/15-minute-chicken-halloumi-burgers',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+params { id: '53085' }
+data {
+  idMeal: '53085',
+  strMeal: '15-minute chicken & halloumi burgers',
+  strDrinkAlternate: null,
+  strCategory: 'Chicken',
+  strArea: 'American',
+  strInstructions: 'STEP 1\r\n' +
+    '\r\n' +
+    'Put the chicken breasts between two pieces of baking parchment and use a rolling pin to gently bash them until they are approximately 1cm thick. Cut each chicken breast into two even pieces.\r\n' +
+    '\r\n' +
+    'STEP 2\r\n' +
+    '\r\n' +
+    "If you're using a frying pan, heat two frying pans over medium-high heat, with one of them containing oil. Fry the chicken in the oiled pan for 3-4 mins on each side until they are cooked through. Season the chicken, reduce the heat, drizzle in the chilli sauce and half of the lemon juice, and cook for an additional 1-2 mins until the sauce is reduced. Remove the chicken from the heat.\r\n" +
+    '\r\n' +
+    'STEP 3\r\n' +
+    '\r\n' +
+    "If you're using an air-fryer, preheat it to 180C for 4 mins. Add the chicken to the air-fryer and cook for 12 mins. Drizzle over the chilli sauce and half the lemon juice and cook for an additional 1-2 mins until the chicken is cooked through and the sauce is reduced. Remove the chicken and keep it warm.\r\n" +
+    'STEP 4\r\n' +
+    '\r\n' +
+    "While the chicken is cooking, toast the buns in the dry frying pan for 30 seconds. Transfer them to a plate. If you're using an air fryer, put the buns in the air fryer for 1-2 mins until they are warm. Increase the air fryer temperature to 200C. Add the halloumi to the air fryer basket and cook for 10 mins, turning halfway through, until it's golden. Toss the cabbage with the mayo and the remaining lemon juice.\r\n" +
+    '\r\n' +
+    'STEP 5\r\n' +
+    '\r\n' +
+    'Spoon the hummus (or dip of your choice) into the toasted buns, then top with the rocket, chilli chicken, halloumi, and peppers. Drizzle with a little more chilli sauce, spoon over the cabbage, season with black pepper, and top with the bun lids. Serve with any extra cabbage on the side or a green salad.',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/vdwloy1713225718.jpg',
+  strTags: null,
+  strYoutube: '',
+  strIngredient1: 'Chicken Breasts',
+  strIngredient2: 'Oil',
+  strIngredient3: 'Hotsauce',
+  strIngredient4: 'Lemon Juice',
+  strIngredient5: 'Buns',
+  strIngredient6: 'Cheese',
+  strIngredient7: 'Cabbage',
+  strIngredient8: 'Mayonnaise',
+  strIngredient9: 'Sour Cream',
+  strIngredient10: 'Lettuce',
+  strIngredient11: 'Red Pepper',
+  strIngredient12: '',
+  strIngredient13: '',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '2',
+  strMeasure2: '1 tbsp',
+  strMeasure3: '4 tbsp',
+  strMeasure4: '½',
+  strMeasure5: '2',
+  strMeasure6: '250g',
+  strMeasure7: '¼',
+  strMeasure8: '2 tbsp',
+  strMeasure9: '4 tbsp',
+  strMeasure10: '4 leaves',
+  strMeasure11: '2',
+  strMeasure12: ' ',
+  strMeasure13: ' ',
+  strMeasure14: ' ',
+  strMeasure15: ' ',
+  strMeasure16: ' ',
+  strMeasure17: ' ',
+  strMeasure18: ' ',
+  strMeasure19: ' ',
+  strMeasure20: ' ',
+  strSource: 'https://www.bbcgoodfood.com/recipes/15-minute-chicken-halloumi-burgers',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+meal {
+  idMeal: '53085',
+  strMeal: '15-minute chicken & halloumi burgers',
+  strDrinkAlternate: null,
+  strCategory: 'Chicken',
+  strArea: 'American',
+  strInstructions: 'STEP 1\r\n' +
+    '\r\n' +
+    'Put the chicken breasts between two pieces of baking parchment and use a rolling pin to gently bash them until they are approximately 1cm thick. Cut each chicken breast into two even pieces.\r\n' +
+    '\r\n' +
+    'STEP 2\r\n' +
+    '\r\n' +
+    "If you're using a frying pan, heat two frying pans over medium-high heat, with one of them containing oil. Fry the chicken in the oiled pan for 3-4 mins on each side until they are cooked through. Season the chicken, reduce the heat, drizzle in the chilli sauce and half of the lemon juice, and cook for an additional 1-2 mins until the sauce is reduced. Remove the chicken from the heat.\r\n" +
+    '\r\n' +
+    'STEP 3\r\n' +
+    '\r\n' +
+    "If you're using an air-fryer, preheat it to 180C for 4 mins. Add the chicken to the air-fryer and cook for 12 mins. Drizzle over the chilli sauce and half the lemon juice and cook for an additional 1-2 mins until the chicken is cooked through and the sauce is reduced. Remove the chicken and keep it warm.\r\n" +
+    'STEP 4\r\n' +
+    '\r\n' +
+    "While the chicken is cooking, toast the buns in the dry frying pan for 30 seconds. Transfer them to a plate. If you're using an air fryer, put the buns in the air fryer for 1-2 mins until they are warm. Increase the air fryer temperature to 200C. Add the halloumi to the air fryer basket and cook for 10 mins, turning halfway through, until it's golden. Toss the cabbage with the mayo and the remaining lemon juice.\r\n" +
+    '\r\n' +
+    'STEP 5\r\n' +
+    '\r\n' +
+    'Spoon the hummus (or dip of your choice) into the toasted buns, then top with the rocket, chilli chicken, halloumi, and peppers. Drizzle with a little more chilli sauce, spoon over the cabbage, season with black pepper, and top with the bun lids. Serve with any extra cabbage on the side or a green salad.',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/vdwloy1713225718.jpg',
+  strTags: null,
+  strYoutube: '',
+  strIngredient1: 'Chicken Breasts',
+  strIngredient2: 'Oil',
+  strIngredient3: 'Hotsauce',
+  strIngredient4: 'Lemon Juice',
+  strIngredient5: 'Buns',
+  strIngredient6: 'Cheese',
+  strIngredient7: 'Cabbage',
+  strIngredient8: 'Mayonnaise',
+  strIngredient9: 'Sour Cream',
+  strIngredient10: 'Lettuce',
+  strIngredient11: 'Red Pepper',
+  strIngredient12: '',
+  strIngredient13: '',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '2',
+  strMeasure2: '1 tbsp',
+  strMeasure3: '4 tbsp',
+  strMeasure4: '½',
+  strMeasure5: '2',
+  strMeasure6: '250g',
+  strMeasure7: '¼',
+  strMeasure8: '2 tbsp',
+  strMeasure9: '4 tbsp',
+  strMeasure10: '4 leaves',
+  strMeasure11: '2',
+  strMeasure12: ' ',
+  strMeasure13: ' ',
+  strMeasure14: ' ',
+  strMeasure15: ' ',
+  strMeasure16: ' ',
+  strMeasure17: ' ',
+  strMeasure18: ' ',
+  strMeasure19: ' ',
+  strMeasure20: ' ',
+  strSource: 'https://www.bbcgoodfood.com/recipes/15-minute-chicken-halloumi-burgers',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+params { strCategory: 'Chicken' }
+meals [
+  {
+    strMeal: '15-minute chicken & halloumi burgers',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/vdwloy1713225718.jpg',
+    idMeal: '53085'
+  },
+  {
+    strMeal: 'Ayam Percik',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/020z181619788503.jpg',
+    idMeal: '53050'
+  },
+  {
+    strMeal: 'Brown Stew Chicken',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg',
+    idMeal: '52940'
+  },
+  {
+    strMeal: 'Chick-Fil-A Sandwich',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg',
+    idMeal: '53016'
+  },
+  {
+    strMeal: 'Chicken & mushroom Hotpot',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg',
+    idMeal: '52846'
+  },
+  {
+    strMeal: 'Chicken Alfredo Primavera',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg',
+    idMeal: '52796'
+  },
+  {
+    strMeal: 'Chicken Basquaise',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg',
+    idMeal: '52934'
+  },
+  {
+    strMeal: 'Chicken Congee',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/1529446352.jpg',
+    idMeal: '52956'
+  },
+  {
+    strMeal: 'Chicken Couscous',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg',
+    idMeal: '52850'
+  },
+  {
+    strMeal: 'Chicken Enchilada Casserole',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg',
+    idMeal: '52765'
+  },
+  {
+    strMeal: 'Chicken Fajita Mac and Cheese',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg',
+    idMeal: '52818'
+  },
+  {
+    strMeal: 'Chicken Ham and Leek Pie',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg',
+    idMeal: '52875'
+  },
+  {
+    strMeal: 'Chicken Handi',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg',
+    idMeal: '52795'
+  },
+  {
+    strMeal: 'Chicken Karaage',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg',
+    idMeal: '52831'
+  },
+  {
+    strMeal: 'Chicken Marengo',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg',
+    idMeal: '52920'
+  },
+  {
+    strMeal: 'Chicken Parmentier',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/uwvxpv1511557015.jpg',
+    idMeal: '52879'
+  },
+  {
+    strMeal: 'Chicken Quinoa Greek Salad',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg',
+    idMeal: '53011'
+  },
+  {
+    strMeal: 'Coq au vin',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg',
+    idMeal: '52832'
+  },
+  {
+    strMeal: 'Crock Pot Chicken Baked Tacos',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg',
+    idMeal: '52830'
+  },
+  {
+    strMeal: 'French Onion Chicken with Roasted Carrots & Mashed Potatoes',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg',
+    idMeal: '52996'
+  },
+  {
+    strMeal: "General Tso's Chicken",
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/1529444113.jpg',
+    idMeal: '52951'
+  },
+  {
+    strMeal: 'Honey Balsamic Chicken with Crispy Broccoli & Potatoes',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg',
+    idMeal: '52993'
+  },
+  {
+    strMeal: 'Jerk chicken with rice & peas',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/tytyxu1515363282.jpg',
+    idMeal: '52937'
+  },
+  {
+    strMeal: 'Katsu Chicken curry',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg',
+    idMeal: '52820'
+  },
+  {
+    strMeal: 'Kentucky Fried Chicken',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg',
+    idMeal: '52813'
+  },
+  {
+    strMeal: 'Kung Pao Chicken',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/1525872624.jpg',
+    idMeal: '52945'
+  },
+  {
+    strMeal: 'Nutty Chicken Curry',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg',
+    idMeal: '52851'
+  },
+  {
+    strMeal: 'Pad See Ew',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg',
+    idMeal: '52774'
+  },
+  {
+    strMeal: 'Piri-piri chicken and slaw',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/hglsbl1614346998.jpg',
+    idMeal: '53039'
+  },
+  {
+    strMeal: 'Potato Gratin with Chicken',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg',
+    idMeal: '52780'
+  },
+  {
+    strMeal: 'Rappie Pie',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg',
+    idMeal: '52933'
+  },
+  {
+    strMeal: 'Rosół (Polish Chicken Soup)',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg',
+    idMeal: '53020'
+  },
+  {
+    strMeal: 'Shawarma',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg',
+    idMeal: '53028'
+  },
+  {
+    strMeal: 'Tandoori chicken',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg',
+    idMeal: '52806'
+  },
+  {
+    strMeal: 'Teriyaki Chicken Casserole',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg',
+    idMeal: '52772'
+  },
+  {
+    strMeal: 'Thai Green Curry',
+    strMealThumb: 'https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg',
+    idMeal: '52814'
+  }
+]
+params { id: '52956' }
+data {
+  idMeal: '52956',
+  strMeal: 'Chicken Congee',
+  strDrinkAlternate: null,
+  strCategory: 'Chicken',
+  strArea: 'Chinese',
+  strInstructions: 'STEP 1 - MARINATING THE CHICKEN\r\n' +
+    'In a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well.\r\n' +
+    'Set the chicken aside.\r\n' +
+    'STEP 2 - RINSE THE WHITE RICE\r\n' +
+    'Rinse the rice in a metal bowl or pot a couple times and then drain the water.\r\n' +
+    'STEP 2 - BOILING THE WHITE RICE\r\n' +
+    'Next add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.\r\n' +
+    'After 25 minutes, this is optional but you can add a little bit more water to make rice porridge to make it less thick or to your preference.\r\n' +
+    'Next add the marinated chicken to the rice porridge and leave the stove on low heat for another 10 minutes.\r\n' +
+    'After an additional 10 minutes add the green onions, sliced ginger, 1 pinch of salt, 1 pinch of white pepper and stir for 10 seconds.\r\n' +
+    'Serve the rice porridge in a bowl\r\n' +
+    'Optional: add Coriander on top of the rice porridge.',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/1529446352.jpg',
+  strTags: null,
+  strYoutube: 'https://www.youtube.com/watch?v=kqEfk801E94',
+  strIngredient1: 'Chicken',
+  strIngredient2: 'Salt',
+  strIngredient3: 'Pepper',
+  strIngredient4: 'Ginger Cordial',
+  strIngredient5: 'Ginger',
+  strIngredient6: 'Spring Onions',
+  strIngredient7: 'Rice',
+  strIngredient8: 'Water',
+  strIngredient9: 'Coriander',
+  strIngredient10: '',
+  strIngredient11: '',
+  strIngredient12: '',
+  strIngredient13: '',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '8 oz ',
+  strMeasure2: 'pinch',
+  strMeasure3: 'pinch',
+  strMeasure4: '1 tsp ',
+  strMeasure5: '1 tsp ',
+  strMeasure6: '1 tbs',
+  strMeasure7: '1/2 cup ',
+  strMeasure8: '8 cups ',
+  strMeasure9: '2 oz ',
+  strMeasure10: '',
+  strMeasure11: '',
+  strMeasure12: '',
+  strMeasure13: '',
+  strMeasure14: '',
+  strMeasure15: '',
+  strMeasure16: '',
+  strMeasure17: '',
+  strMeasure18: '',
+  strMeasure19: '',
+  strMeasure20: '',
+  strSource: 'https://sueandgambo.com/pages/chicken-congee',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+params { id: '52846' }
+data {
+  idMeal: '52846',
+  strMeal: 'Chicken & mushroom Hotpot',
+  strDrinkAlternate: null,
+  strCategory: 'Chicken',
+  strArea: 'British',
+  strInstructions: 'Heat oven to 200C/180C fan/gas 6. Put the butter in a medium-size saucepan and place over a medium heat. Add the onion and leave to cook for 5 mins, stirring occasionally. Add the mushrooms to the saucepan with the onions.\r\n' +
+    '\r\n' +
+    'Once the onion and mushrooms are almost cooked, stir in the flour – this will make a thick paste called a roux. If you are using a stock cube, crumble the cube into the roux now and stir well. Put the roux over a low heat and stir continuously for 2 mins – this will cook the flour and stop the sauce from having a floury taste.\r\n' +
+    '\r\n' +
+    'Take the roux off the heat. Slowly add the fresh stock, if using, or pour in 500ml water if you’ve used a stock cube, stirring all the time. Once all the liquid has been added, season with pepper, a pinch of nutmeg and mustard powder. Put the saucepan back onto a medium heat and slowly bring it to the boil, stirring all the time. Once the sauce has thickened, place on a very low heat. Add the cooked chicken and vegetables to the sauce and stir well. Grease a medium-size ovenproof pie dish with a little butter and pour in the chicken and mushroom filling.\r\n' +
+    '\r\n' +
+    'Carefully lay the potatoes on top of the hot-pot filling, overlapping them slightly, almost like a pie top.\r\n' +
+    '\r\n' +
+    'Brush the potatoes with a little melted butter and cook in the oven for about 35 mins. The hot-pot is ready once the potatoes are cooked and golden brown.',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg',
+  strTags: null,
+  strYoutube: 'https://www.youtube.com/watch?v=bXKWu4GojNI',
+  strIngredient1: 'Butter',
+  strIngredient2: 'Onion',
+  strIngredient3: 'Mushrooms',
+  strIngredient4: 'Plain Flour',
+  strIngredient5: 'Chicken Stock Cube',
+  strIngredient6: 'Nutmeg',
+  strIngredient7: 'Mustard Powder',
+  strIngredient8: 'Chicken',
+  strIngredient9: 'Sweetcorn',
+  strIngredient10: 'Potatoes',
+  strIngredient11: 'Butter',
+  strIngredient12: '',
+  strIngredient13: '',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '50g',
+  strMeasure2: '1 chopped',
+  strMeasure3: '100g ',
+  strMeasure4: '40g',
+  strMeasure5: '1',
+  strMeasure6: 'pinch',
+  strMeasure7: 'pinch',
+  strMeasure8: '250g',
+  strMeasure9: '2 Handfuls',
+  strMeasure10: '2 large',
+  strMeasure11: '1 knob',
+  strMeasure12: '',
+  strMeasure13: '',
+  strMeasure14: '',
+  strMeasure15: '',
+  strMeasure16: '',
+  strMeasure17: '',
+  strMeasure18: '',
+  strMeasure19: '',
+  strMeasure20: '',
+  strSource: 'https://www.bbcgoodfood.com/recipes/chicken-mushroom-hot-pot',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+params { id: '52765' }
+data {
+  idMeal: '52765',
+  strMeal: 'Chicken Enchilada Casserole',
+  strDrinkAlternate: null,
+  strCategory: 'Chicken',
+  strArea: 'Mexican',
+  strInstructions: "Cut each chicken breast in about 3 pieces, so that it cooks faster and put it in a small pot. Pour Enchilada sauce over it and cook covered on low to medium heat until chicken is cooked through, about 20 minutes. No water is needed, the chicken will cook in the Enchilada sauce. Make sure you stir occasionally so that it doesn't stick to the bottom.\r\n" +
+    'Remove chicken from the pot and shred with two forks.\r\n' +
+    'Preheat oven to 375 F degrees.\r\n' +
+    'Start layering the casserole. Start with about ¼ cup of the leftover Enchilada sauce over the bottom of a baking dish. I used a longer baking dish, so that I can put 2 corn tortillas across. Place 2 tortillas on the bottom, top with ⅓ of the chicken and ⅓ of the remaining sauce. Sprinkle with ⅓ of the cheese and repeat starting with 2 more tortillas, then chicken, sauce, cheese. Repeat with last layer with the remaining ingredients, tortillas, chicken, sauce and cheese.\r\n' +
+    'Bake for 20 to 30 minutes uncovered, until bubbly and cheese has melted and started to brown on top.\r\n' +
+    'Serve warm.',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg',
+  strTags: 'Casserole,Cheasy,Meat',
+  strYoutube: 'https://www.youtube.com/watch?v=EtVkwVKLc_M',
+  strIngredient1: 'Enchilada sauce',
+  strIngredient2: 'shredded Monterey Jack cheese',
+  strIngredient3: 'corn tortillas',
+  strIngredient4: 'chicken breasts',
+  strIngredient5: null,
+  strIngredient6: null,
+  strIngredient7: null,
+  strIngredient8: null,
+  strIngredient9: null,
+  strIngredient10: null,
+  strIngredient11: null,
+  strIngredient12: null,
+  strIngredient13: null,
+  strIngredient14: null,
+  strIngredient15: null,
+  strIngredient16: null,
+  strIngredient17: null,
+  strIngredient18: null,
+  strIngredient19: null,
+  strIngredient20: null,
+  strMeasure1: '14 oz jar',
+  strMeasure2: '3 Cups',
+  strMeasure3: '6',
+  strMeasure4: '2',
+  strMeasure5: null,
+  strMeasure6: null,
+  strMeasure7: null,
+  strMeasure8: null,
+  strMeasure9: null,
+  strMeasure10: null,
+  strMeasure11: null,
+  strMeasure12: null,
+  strMeasure13: null,
+  strMeasure14: null,
+  strMeasure15: null,
+  strMeasure16: null,
+  strMeasure17: null,
+  strMeasure18: null,
+  strMeasure19: null,
+  strMeasure20: null,
+  strSource: null,
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+params { id: '52993' }
+data {
+  idMeal: '52993',
+  strMeal: 'Honey Balsamic Chicken with Crispy Broccoli & Potatoes',
+  strDrinkAlternate: null,
+  strCategory: 'Chicken',
+  strArea: 'American',
+  strInstructions: '2 Servings\r\n' +
+    '\r\n' +
+    "1. Preheat oven to 425 degrees. Wash and dry all produce. Cut potatoes into 1/2-inch-thick wedges. Toss on one side of a baking sheet with a drizzle of oil, salt, and pepper. (For 4 servings, spread potatoes out across entire sheet.) Roast on top rack for 5 minutes (we'll add the broccoli then). \r\n" +
+    '\r\n' +
+    '2. Meanwhile, cut broccoli florets into bite-size pieces, if necessary. Peel and finely chop garlic. In a small microwave-safe bowl, combine 1 TBSP olive oil (2 TBSP for 4 servings) and half the garlic. Microwave until garlic sizzles, 30 seconds. \r\n' +
+    '\r\n' +
+    '3. Once potatoes have roasted 5 minutes, remove sheet from oven and add broccoli to empty side; carefully toss with garlic oil, salt, and pepper. (For 4 servings, add broccoli to a second sheet.) Continue roasting until potatoes and broccoli are browned and crispy, 15-20 minutes more. \r\n' +
+    '\r\n' +
+    '4. While veggies roast, pat chicken dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add chicken and cook until browned and cooked through, 5-6 minutes per side. (If chicken browns too quickly, reduce heat to medium.) Turn off heat; set chicken aside to rest. Wash out pan. \r\n' +
+    '\r\n' +
+    '5. Heat pan used for chicken over medium-high heat. Add a drizzle of oil and remaining garlic; cook until fragrant, 30 seconds. Stir in vinegar, honey, stock concentrate, and 1/4 cup water (1/3 cup for 4 servings). Simmer until thick and glossy, 2-3 minutes. Remove from heat and stir in 1 TBSP butter (2 TBSP for 4). Season with salt and pepper. \r\n' +
+    '\r\n' +
+    '6. Return chicken to pan and turn to coat in glaze. Divide chicken, broccoli, and potatoes between plates. Spoon any remaining glaze over chicken and serve. ',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg',
+  strTags: null,
+  strYoutube: '',
+  strIngredient1: 'Potatoes',
+  strIngredient2: 'Broccoli',
+  strIngredient3: 'Garlic',
+  strIngredient4: 'Chicken Breast',
+  strIngredient5: 'Balsamic Vinegar',
+  strIngredient6: 'Honey',
+  strIngredient7: 'Chicken Stock',
+  strIngredient8: 'Butter',
+  strIngredient9: 'Vegetable Oil',
+  strIngredient10: 'Olive Oil',
+  strIngredient11: '',
+  strIngredient12: '',
+  strIngredient13: '',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '5',
+  strMeasure2: '1',
+  strMeasure3: '2 cloves',
+  strMeasure4: '2',
+  strMeasure5: ' ',
+  strMeasure6: ' ',
+  strMeasure7: ' ',
+  strMeasure8: '1 tbsp',
+  strMeasure9: '1 tbsp',
+  strMeasure10: '1 tbsp',
+  strMeasure11: ' ',
+  strMeasure12: ' ',
+  strMeasure13: ' ',
+  strMeasure14: ' ',
+  strMeasure15: ' ',
+  strMeasure16: ' ',
+  strMeasure17: ' ',
+  strMeasure18: ' ',
+  strMeasure19: ' ',
+  strMeasure20: ' ',
+  strSource: '',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+params { id: '53020' }
+data {
+  idMeal: '53020',
+  strMeal: 'Rosół (Polish Chicken Soup)',
+  strDrinkAlternate: null,
+  strCategory: 'Chicken',
+  strArea: 'Polish',
+  strInstructions: 'Add chicken to a large Dutch oven or stock pot \r\n' +
+    'Cover with water\r\n' +
+    'Bring to a boil and simmer for 2 to 2 1/2 hours, skimming any impurities off the top to insure a clear broth\r\n' +
+    'If your pot is big enough, add the vegetables and spices for the last hour of the cooking time\r\n' +
+    'My Dutch oven wasn’t big enough to hold everything, just the chicken and other bones filled the pot, so I cooked the meat/bones for the full cooking time, then removed them, and cooked the vegetables and spices separately\r\n' +
+    'Strain everything out of the broth\r\n' +
+    'Bone the chicken, pulling the meat into large chunks\r\n' +
+    'Slice the carrots\r\n' +
+    'Return the chicken and carrots to the broth\r\n' +
+    'Cook noodles according to package instructions if you’re using them\r\n' +
+    'Add noodles to bowl and then top with hot soup',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg',
+  strTags: null,
+  strYoutube: 'https://www.youtube.com/watch?v=AU60fxyxXGw',
+  strIngredient1: 'Chicken Legs',
+  strIngredient2: 'Onions',
+  strIngredient3: 'Carrots',
+  strIngredient4: 'Leek',
+  strIngredient5: 'Celery',
+  strIngredient6: 'Cabbage',
+  strIngredient7: 'Cloves',
+  strIngredient8: 'Allspice',
+  strIngredient9: 'Bay Leaf',
+  strIngredient10: 'Parsley',
+  strIngredient11: 'Dill',
+  strIngredient12: 'Pepper',
+  strIngredient13: 'Salt',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '4 Chopped',
+  strMeasure2: '2 large',
+  strMeasure3: '5 chopped',
+  strMeasure4: '1 chopped',
+  strMeasure5: '1 small',
+  strMeasure6: '1/4 ',
+  strMeasure7: '1 whole',
+  strMeasure8: '1tsp',
+  strMeasure9: '2',
+  strMeasure10: '4 sprigs',
+  strMeasure11: '4 sprigs',
+  strMeasure12: '1 tsp ',
+  strMeasure13: '1 tbs',
+  strMeasure14: ' ',
+  strMeasure15: ' ',
+  strMeasure16: ' ',
+  strMeasure17: ' ',
+  strMeasure18: ' ',
+  strMeasure19: ' ',
+  strMeasure20: ' ',
+  strSource: 'https://polishhousewife.com/rosol-polish-chicken-soup/',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+params { id: '52852' }
+data {
+  idMeal: '52852',
+  strMeal: 'Tuna Nicoise',
+  strDrinkAlternate: null,
+  strCategory: 'Seafood',
+  strArea: 'French',
+  strInstructions: 'Heat oven to 200C/fan 180C/gas 6. Toss the potatoes with 2 tsp oil and some seasoning. Tip onto a large baking tray, then roast for 20 mins, stirring halfway, until crisp, golden and cooked through.\r\n' +
+    'Meanwhile, put eggs in a small pan of water, bring to the boil, then simmer for 8-10 mins, depending on how you like them cooked. Plunge into a bowl of cold water to cool for a few mins. Peel away the shells, then cut into halves.\r\n' +
+    'In a large salad bowl, whisk together the remaining oil, red wine vinegar, capers and chopped tomatoes. Season, tip in the onion, spinach, tuna and potatoes, then gently toss together. Top with the eggs, then serve straight away.',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg',
+  strTags: null,
+  strYoutube: 'https://www.youtube.com/watch?v=3_UAxkx0u6U',
+  strIngredient1: 'Potatoes',
+  strIngredient2: 'Olive Oil',
+  strIngredient3: 'Eggs',
+  strIngredient4: 'Red Wine Vinegar',
+  strIngredient5: 'Capers',
+  strIngredient6: 'Sunflower Oil',
+  strIngredient7: 'Red Onions',
+  strIngredient8: 'Spinach',
+  strIngredient9: 'Tuna',
+  strIngredient10: '',
+  strIngredient11: '',
+  strIngredient12: '',
+  strIngredient13: '',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '450g',
+  strMeasure2: '2 tblsp ',
+  strMeasure3: '4',
+  strMeasure4: '1 tbls',
+  strMeasure5: '2 tblsp ',
+  strMeasure6: '50g',
+  strMeasure7: '½',
+  strMeasure8: '100g ',
+  strMeasure9: '400g',
+  strMeasure10: '',
+  strMeasure11: '',
+  strMeasure12: '',
+  strMeasure13: '',
+  strMeasure14: '',
+  strMeasure15: '',
+  strMeasure16: '',
+  strMeasure17: '',
+  strMeasure18: '',
+  strMeasure19: '',
+  strMeasure20: '',
+  strSource: 'https://www.bbcgoodfood.com/recipes/9529/winter-tuna-nioise',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}
+params { id: '52852' }
+data {
+  idMeal: '52852',
+  strMeal: 'Tuna Nicoise',
+  strDrinkAlternate: null,
+  strCategory: 'Seafood',
+  strArea: 'French',
+  strInstructions: 'Heat oven to 200C/fan 180C/gas 6. Toss the potatoes with 2 tsp oil and some seasoning. Tip onto a large baking tray, then roast for 20 mins, stirring halfway, until crisp, golden and cooked through.\r\n' +
+    'Meanwhile, put eggs in a small pan of water, bring to the boil, then simmer for 8-10 mins, depending on how you like them cooked. Plunge into a bowl of cold water to cool for a few mins. Peel away the shells, then cut into halves.\r\n' +
+    'In a large salad bowl, whisk together the remaining oil, red wine vinegar, capers and chopped tomatoes. Season, tip in the onion, spinach, tuna and potatoes, then gently toss together. Top with the eggs, then serve straight away.',
+  strMealThumb: 'https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg',
+  strTags: null,
+  strYoutube: 'https://www.youtube.com/watch?v=3_UAxkx0u6U',
+  strIngredient1: 'Potatoes',
+  strIngredient2: 'Olive Oil',
+  strIngredient3: 'Eggs',
+  strIngredient4: 'Red Wine Vinegar',
+  strIngredient5: 'Capers',
+  strIngredient6: 'Sunflower Oil',
+  strIngredient7: 'Red Onions',
+  strIngredient8: 'Spinach',
+  strIngredient9: 'Tuna',
+  strIngredient10: '',
+  strIngredient11: '',
+  strIngredient12: '',
+  strIngredient13: '',
+  strIngredient14: '',
+  strIngredient15: '',
+  strIngredient16: '',
+  strIngredient17: '',
+  strIngredient18: '',
+  strIngredient19: '',
+  strIngredient20: '',
+  strMeasure1: '450g',
+  strMeasure2: '2 tblsp ',
+  strMeasure3: '4',
+  strMeasure4: '1 tbls',
+  strMeasure5: '2 tblsp ',
+  strMeasure6: '50g',
+  strMeasure7: '½',
+  strMeasure8: '100g ',
+  strMeasure9: '400g',
+  strMeasure10: '',
+  strMeasure11: '',
+  strMeasure12: '',
+  strMeasure13: '',
+  strMeasure14: '',
+  strMeasure15: '',
+  strMeasure16: '',
+  strMeasure17: '',
+  strMeasure18: '',
+  strMeasure19: '',
+  strMeasure20: '',
+  strSource: 'https://www.bbcgoodfood.com/recipes/9529/winter-tuna-nioise',
+  strImageSource: null,
+  strCreativeCommonsConfirmed: null,
+  dateModified: null
+}

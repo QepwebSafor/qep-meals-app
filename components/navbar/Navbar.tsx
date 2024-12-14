@@ -35,9 +35,9 @@ const Navbar = async () => {
             />
 
             {currentUser ? (
-              <h3 className="px-3 py-6">Hello, {currentUser.name}</h3>
+              <h3 className="px-3 py- text-yellow-300">Hello, {currentUser.name}</h3>
             ) : (
-              <h3 className="px-3 py-6">QEP Dogs App</h3>
+              <h3 className="px-3 py-6 text-yellow-300">QEP Meals App</h3>
             )}
           </div>
         </Link>
@@ -69,34 +69,38 @@ function SignInButton() {
           <DropdownMenuItem asChild>
             <Link href="/login">
               <UserRound className="mr-2 h-4 w-4" />
-              Acceso
+              Sign in
             </Link>
           </DropdownMenuItem>
 
           <DropdownMenuItem asChild>
             <Link href="/register">
               <UserRoundPlus className="mr-2 h-4 w-4" />
-              Registro
+              Sign up
             </Link>
           </DropdownMenuItem>
-      
-      
         <DropdownMenuItem asChild>
             <Link href="/contact">
             <MessageCircle  className="mr-2 h-4 w-4" />
-              Contacto
+              Contact
             </Link>
           </DropdownMenuItem>
           <DropdownMenuItem asChild>
-            <Link href="/breeds">
+            <Link href="/">
             <Dog   className="mr-2 h-4 w-4" />
-              Breeds
+              Home
             </Link>
           </DropdownMenuItem>
           <DropdownMenuItem asChild>
-            <Link href="/random">
+            <Link href="/discover">
+            <Dog   className="mr-2 h-4 w-4" />
+              Discover
+            </Link>
+          </DropdownMenuItem>
+          <DropdownMenuItem asChild>
+            <Link href="/favourite">
             <PawPrint   className="mr-2 h-4 w-4" />
-              Random
+              Favourite
             </Link>
           </DropdownMenuItem>
         </DropdownMenuGroup>

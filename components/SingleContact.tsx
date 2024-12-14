@@ -21,10 +21,10 @@ function SingleContact({ key, data }: ContactProps) {
       key={data.id}
     >
       <div className=" flex flex-col items-start justify-between  m-4">
-        <h5>
+        <h1>
           <span>From: </span>
           {data.postername}
-        </h5>
+        </h1>
 
         {/*      <Button
           onClick={() => router.push(`/admin/contacts/${data.id}`)}

@@ -74,18 +74,18 @@ export default function UserEditForm({
       {onActive && (
         <div className="container text-left mt-4 justify-center max-w-min flex-wrap mx-auto  ">
           <form onSubmit={onSubmit}>
-            <p >
+            <h5 >
               Cambiar avatar:
-            </p>
+            </h5>
 
             <ImageUpload
               value={state.image as string}
               onChange={(value) => setCustomValue("image", value)}
             />
           
-            <p>
+            <h5>
               Cambiar Nombre:
-            </p>
+            </h5>
             <Input
               placeholder="Name"
               id="name"
@@ -95,9 +95,9 @@ export default function UserEditForm({
               onChange={handleChange}
             />
 
-            <p>
+            <h5>
               Cambiar Email:
-            </p>
+            </h5>
             <Input
               placeholder="Email"
               id="email"

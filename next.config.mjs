@@ -12,7 +12,7 @@ const nextConfig = {
         hostname: "avatars.githubusercontent.com"
       },
       {
-        hostname: "cdn2.thedogapi.com"
+        hostname: "www.themealdb.com"
       }
     ],
   },
