@@ -83,7 +83,7 @@
   }
   h2 {
 
-    @apply text-sm text-lime-900 font-semibold text-center;
+    @apply text-2xl text-lime-900 font-semibold ;
   }
   h3 {
 

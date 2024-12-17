@@ -18,11 +18,11 @@ const ByArea =async ({ params }:any) => {
 
   return (
     <div
-      className="lg:w-app w-full bg-white mx-auto pb-14"
-      style={{ backgroundColor: "rgb(253, 186, 116)" }}
-    >
-      <AppBarWithBack />
-      <h1 className="text-center my-8">
+    className="lg:w-app w-full bg-white  "
+    style={{ backgroundColor: "rgb(253, 186, 116)"  }}
+  >
+    <AppBarWithBack />
+    <h1>
         Total {Array.isArray(meals) && meals?.length} meals in {area}
       </h1>
       <div className="grid lg:grid-cols-4 grid-cols-2">
