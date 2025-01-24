@@ -42,7 +42,7 @@ console.log('value', value)
 
             {value && (
               <div className="absolute inset-0 w-full h-full">
-                <Image alt="upload" fill style={{ objectFit: 'cover' }} src={value} />
+                <Image alt="upload"  style={{ objectFit: 'cover' }} src={value} />
               </div>
             )}
           </div>
