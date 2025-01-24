@@ -67,6 +67,7 @@ export default function UserEditForm({
       <Button
         onClick={() => setOnActive(!onActive)}
         className="uppercase   text-2xl"
+        
       >
         actualizar
       </Button>

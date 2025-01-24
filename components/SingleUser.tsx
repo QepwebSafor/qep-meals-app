@@ -28,7 +28,7 @@ function SingleUser({ key, data }: UserProps) {
         alt={data.name}
         width={250}
         height={250}
-        priority
+        priority={false}
         className="object-contain mx-auto mb-2 w-auto rounded-sm "
       />
       {/* <p className="m-1 truncate text-sm leading-5 ">Id: {data.id}</p> */}
