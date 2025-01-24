@@ -4,11 +4,12 @@ import {getMealDetailsById } from  "@/actions/meals";
 import MealDetail from "@/components/MealDetail";
 
 
-const RecipePage =async ({ params }: any) => {
+const RecipePage =async (props: any) => {
+  const params = await props.params;
   console.log('params', params)
-const  {id} = params;
+  const  {id} = params;
 
- const meal= await getMealDetailsById(id);
+  const meal= await getMealDetailsById(id);
 
 
   return (

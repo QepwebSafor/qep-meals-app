@@ -3,11 +3,12 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Login"
 };
-const LoginPage = ({
-  searchParams,
-}: {
-  searchParams: { verified: string; error: string };
-}) => {
+const LoginPage = async (
+  props: {
+    searchParams: Promise<{ verified: string; error: string }>;
+  }
+) => {
+  const searchParams = await props.searchParams;
 
   const OAuthAccountNotLinked = searchParams.error === "OAuthAccountNotLinked";
 

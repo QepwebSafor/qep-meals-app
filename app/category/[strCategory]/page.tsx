@@ -4,15 +4,16 @@ import { Meals} from "@/types/Meal.interface";
 import AppBarWithBack from "@/components/AppBarWithBack";
 import MealResult from "@/components/MealResult";
 
-const ByCategory =async ({params }:any) => {
-console.log('params', params)
-const  {strCategory} = params;
-/* console.log('strCategory', strCategory)
+const ByCategory =async (props:any) => {
+  const params = await props.params;
+  console.log('params', params)
+  const  {strCategory} = params;
+  /* console.log('strCategory', strCategory)
 
- let category_id =  strCategory!;
- console.log('category_id',category_id ) */
- const meals:Meals[] | undefined= await getMealsByCategory(strCategory);
-console.log('meals', meals)
+   let category_id =  strCategory!;
+   console.log('category_id',category_id ) */
+  const meals:Meals[] | undefined= await getMealsByCategory(strCategory);
+  console.log('meals', meals)
   return (
     <div
       className="lg:w-app w-full bg-white  "

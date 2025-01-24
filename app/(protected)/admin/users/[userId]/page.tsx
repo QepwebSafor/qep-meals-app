@@ -5,7 +5,8 @@ interface IParams {
   userId: string;
 }
 
-export default async function page({ params }: { params: IParams }) {
+export default async function page(props: { params: Promise<IParams> }) {
+  const params = await props.params;
   const user = await getUserById(params);
 
   const date = user?.createdAt;

@@ -6,7 +6,8 @@ import { Meals} from "@/types/Meal.interface";
 import AppBarWithBack from "@/components/AppBarWithBack";
 import MealResult from "@/components/MealResult";
 
-const ByArea =async ({ params }:any) => {
+const ByArea =async (props:any) => {
+  const params = await props.params;
   //state
 
 
@@ -14,7 +15,7 @@ const ByArea =async ({ params }:any) => {
   let area = params.strArea;
 
   //get meals data by area
- const meals:Meals[] | undefined= await  getMealsByArea(area)
+  const meals:Meals[] | undefined= await  getMealsByArea(area)
 
   return (
     <div
