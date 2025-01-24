@@ -2,7 +2,7 @@
 
 import avatarPlaceholder from "@/assets/images/avatar_placeholder.png";
 import {  UserRound, UserRoundPlus , MessageCircle, Dog , PawPrint } from "lucide-react";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import getCurrentUser from "@/actions/getCurrentUser";
 import Link from "next/link";
 import { Button } from "../ui/button";
