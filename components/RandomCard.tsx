@@ -1,5 +1,5 @@
 "use client";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import { api } from "@/lib/axios";
 import {ImageB} from "@/types/Image.interface";
 import { Button } from "@/components/ui/button";

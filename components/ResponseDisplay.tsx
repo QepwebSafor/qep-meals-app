@@ -1,5 +1,5 @@
 import { ImageUpload } from "@/types/Image.interface";
-import Image from "next/image";
+import Image from "next/legacy/image";
 interface Props {
   data: ImageUpload;
 }

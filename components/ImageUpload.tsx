@@ -1,6 +1,6 @@
 import React, { useCallback } from 'react';
 import { CldUploadWidget } from 'next-cloudinary';
-import Image from 'next/image';
+import Image from "next/legacy/image";
 import { TbPhotoPlus } from 'react-icons/tb';
 
 // Declaración global para Cloudinary (opcional si es necesario)

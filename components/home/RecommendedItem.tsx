@@ -1,7 +1,7 @@
 import { lookupSingleRandomMeal } from "@/actions/meals";
 import { Meals } from "@/types/Meal.interface";
 import Link from "next/link";
-import Image from "next/image";
+import Image from "next/legacy/image";
 const RecommendedItem = async () => {
   const meals: Meals[] | undefined = await lookupSingleRandomMeal();
   return (

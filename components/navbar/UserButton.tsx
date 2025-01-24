@@ -3,7 +3,7 @@ import avatarPlaceholder from "@/assets/images/avatar_placeholder.png";
 import { Lock,  Settings , MessageCircle, Dog} from "lucide-react";
 import { User } from "next-auth";
 import { signOut } from "next-auth/react";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import Link from "next/link";
 import { Button } from "../ui/button";
 import { useRouter } from "next/navigation";

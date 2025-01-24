@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { getMealsByName } from "@/actions/meals";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import { Meals } from "@/types/Meal.interface";
 //components
 import ForYou from "./ForYou";

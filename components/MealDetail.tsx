@@ -2,7 +2,7 @@
 import { useEffect, useState, useMemo } from "react";
 import Link from "next/link";
 import useFavouriteMeals from "@/hooks/useFavouriteMeals";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import ReactPlayer from "react-player";
 import { motion } from "motion/react";
 import { Heart, HeartOff } from "lucide-react";

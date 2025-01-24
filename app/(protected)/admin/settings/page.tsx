@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import avatarPlaceholder from "@/assets/images/avatar_placeholder.png";
 import { redirect } from "next/navigation";
 import UserEditForm from "@/components/UserEditForm";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import getCurrentUser from "@/actions/getCurrentUser";
 export const metadata: Metadata = {
   title: "Profile",

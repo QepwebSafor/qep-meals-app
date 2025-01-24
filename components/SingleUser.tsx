@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { SafeUser } from "@/types/type";
 import avatarPlaceholder from "@/assets/images/avatar_placeholder.png";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import { Button } from "@/components/ui/button";
 import { Trash } from "lucide-react";
 import { deleteUser } from "@/actions/user-action";
