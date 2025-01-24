@@ -41,7 +41,7 @@ console.log('value', value)
             <div className="text-lg">Pulse para subir la imagen</div>
 
             {value && (
-              <div className="absolute inset-0 w-full h-full">
+              <div className="absolute inset-0 w-full h-full ">
                 <Image alt="upload"  style={{ objectFit: 'cover' }} src={value} />
               </div>
             )}

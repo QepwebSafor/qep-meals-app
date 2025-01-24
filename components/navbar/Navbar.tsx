@@ -29,20 +29,20 @@ const Navbar = async () => {
             <Image
               src="/img/pnglogoxs.fw.png"
               alt="Qep"
-              width={44}
-              height={44}
-              className="navbar-brand w-auto"
+              width={50}
+              height={50}
+              className="navbar-brand object-fit"
             />
 
             {currentUser ? (
-              <h3 className="px-3 py- text-yellow-300">Hello, {currentUser.name}</h3>
+              <h3 className="px-2 py-4 text-yellow-300">Hello, {currentUser.name}</h3>
             ) : (
-              <h3 className="px-3 py-6 text-yellow-300">QEP Meals App</h3>
+              <h3 className="px-2 py-4 text-yellow-300">QEP Meals App</h3>
             )}
           </div>
         </Link>
 
-        <div className="flex mt-5  ml-auto ">
+        <div className="flex   ml-auto py-4 ">
           {currentUser ? <UserButton user={currentUser} /> : <SignInButton />}
         </div>
       </div>
