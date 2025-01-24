@@ -59,6 +59,7 @@ function SignInButton() {
             alt="User profile picture"
             width={50}
             height={50}
+            priority={false}
             className="aspect-square rounded-full  object-cover "
           />
         </Button>
