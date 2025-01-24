@@ -3,7 +3,7 @@ import getUsers from "@/actions/getUsers";
 import SingleUser from "@/components/SingleUser";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Users List",
+  title: "Users List"
 };
 const AdminPage = async () => {
   const users = await getUsers();

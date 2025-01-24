@@ -5,7 +5,7 @@ import UserEditForm from "@/components/UserEditForm";
 import Image from "next/legacy/image";
 import getCurrentUser from "@/actions/getCurrentUser";
 export const metadata: Metadata = {
-  title: "Profile",
+  title: "Profile"
 };
 
 export default async function Page() {

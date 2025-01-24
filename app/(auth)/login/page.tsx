@@ -1,7 +1,7 @@
 import FormLogin from "@/components/form-login";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Login",
+  title: "Login"
 };
 const LoginPage = ({
   searchParams,

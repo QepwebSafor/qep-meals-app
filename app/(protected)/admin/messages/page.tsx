@@ -3,7 +3,7 @@ import {getContacts} from "@/actions/contact-action";
 import SingleContact from "@/components/SingleContact";
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "contacts List",
+  title: "contacts List"
 };
 const AdminPage = async () => {
   const contacts = await getContacts();
